@@ -1,3 +1,3 @@
-# BulkImageOptimizer-Releases
+# BatchImageStudio-Releases
 
 Installer releases for BatchImage Studio.
