@@ -1,3 +1,26 @@
-# BatchImageStudio-Releases
+# 📷 BatchImage Studio
 
-Installer releases for BatchImage Studio.
+**BatchImage Studio** is a powerful and blazing-fast desktop application designed for batch image processing, compression, and conversion. Built for solo creators, developers, and designers who need to prepare high-quality visual assets quickly and efficiently without compromising their private data.
+
+---
+
+### 🔥 Key Features & Capabilities
+* **Batch Processing:** Compress, resize, and convert hundreds of images or entire asset directories simultaneously in just one click.
+* **Blazing Fast Performance:** Built with native C# and multi-threaded processing to utilize every CPU core for concurrent compression—no queuing one at a time.
+* **Format Conversion:** Seamlessly convert images to modern, web-optimized formats, including WebP, PNG, and JPG.
+* **Smart Resizing & Presets:** Quick resize modes with built-in presets tailored for modern social media platforms (Instagram, YouTube, TikTok, LinkedIn, etc.).
+* **Side-by-Side Comparison:** Built-in "Compare Images" tool to preview the original vs. optimized file side-by-side, ensuring real compression with no visible loss.
+* **Advanced Output Control:** Fine-tune image quality with precise percentage targets, adjust DPI, and fully preserve your original source folder structure.
+* **Privacy-First & Secure:** Process everything locally on your machine—your private data and images are never sent to external servers.
+
+---
+
+### 💻 Product Interface
+![BatchImage Studio Interface](https://github.com/user-attachments/assets/d9ec2cd4-97d0-4e53-a43a-5e12c25e27fb)
+
+---
+
+### 🚀 How to Run
+1. Go to the **[Releases](https://github.com/programlover92/BatchImageStudio-Releases/releases)** section.
+2. Download the latest release archive (`.zip`) for Windows.
+3. Extract the archive into any folder and run the application executable file.
