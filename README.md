@@ -16,7 +16,8 @@
 ---
 
 ### 💻 Product Interface
-![BatchImage Studio Interface](https://github.com/user-attachments/assets/d9ec2cd4-97d0-4e53-a43a-5e12c25e27fb)
+<img width="1920" height="1080" alt="Снимок экрана (272)" src="https://github.com/user-attachments/assets/b7c3a744-c62d-489d-a452-209b8bc59377" />
+
 
 ---
 
