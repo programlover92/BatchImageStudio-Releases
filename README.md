@@ -16,7 +16,8 @@
 ---
 
 ### 💻 Product Interface
-<img width="1920" height="976" alt="Снимок экрана (272)" src="https://github.com/user-attachments/assets/61798e22-fda3-4754-8b54-000cbbda4769" />
+<img width="1920" height="1032" alt="Снимок экрана (372)" src="https://github.com/user-attachments/assets/c4ba0fac-27af-421a-9efa-db9d58bc2e2b" />
+
 
 
 
