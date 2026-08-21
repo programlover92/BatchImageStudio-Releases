@@ -16,7 +16,8 @@
 ---
 
 ### 💻 Product Interface
-<img width="1920" height="1080" alt="Снимок экрана (414)" src="https://github.com/user-attachments/assets/41024381-d8d3-4637-9988-d75dcf460dc1" />
+<img width="1895" height="986" alt="hero-dashboard" src="https://github.com/user-attachments/assets/183218f3-b773-4938-829e-3708f6b579d9" />
+
 
 
 
